@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=800&color=C6A15B&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+James+Peters;Backend+Developer;Blockchain+Engineer;Building+production+backend+systems" alt="Typing SVG" />
+# James Peters
+
+### Backend Developer · Blockchain Engineer
+
+Building production backend systems and on-chain infrastructure — REST APIs, distributed services, and smart contracts.
 
 [![Email](https://img.shields.io/badge/-officialpeters1%40gmail.com-17213D?style=flat-square&logo=gmail&logoColor=white)](mailto:officialpeters1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-james--peters-17213D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-peters-209b943b1)
 [![X](https://img.shields.io/badge/-%40BlvckBoy03-17213D?style=flat-square&logo=x&logoColor=white)](https://x.com/BlvckBoy03)
-
-<img src="https://komarev.com/ghpvc/?username=sQuiDbOb18&label=Profile%20Views&color=17213D&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -65,6 +67,27 @@
   <tr>
     <td width="33%" valign="top">
       <b>Olien</b><br>
+      <sub>Team account protocol for stablecoins — multisig approval, spend limits, passkey signing</sub><br>
+      <sub><i>Rust · TypeScript · Solidity</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>MediMind AI</b><br>
+      <sub>AI-powered healthcare intelligence platform</sub><br>
+      <sub><i>Python · FastAPI · LLM</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Work Proof dApp</b><br>
+      <sub>Decentralised proof-of-work credential system</sub><br>
+      <sub><i>Solana · Rust · Anchor</i></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+<sub>Open to backend and Web3 engineering opportunities — reach out via email or LinkedIn.</sub>
+</div>      <b>Olien</b><br>
       <sub>Team account protocol for stablecoins — multisig approval, spend limits, passkey signing</sub><br>
       <sub><i>Rust · TypeScript · Solidity</i></sub>
     </td>
