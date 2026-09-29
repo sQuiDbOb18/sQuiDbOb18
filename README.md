@@ -1,41 +1,96 @@
-# 👋 Hi, I'm James Peters
+<div align="center">
 
-### Backend Developer · AI Systems Builder · Blockchain Engineer
+# James Peters
 
-I build production-ready systems at the intersection of **AI**, **Web3**, and **backend infrastructure** — from multi-agent pipelines to on-chain DApps.
+### Backend Developer · Blockchain Engineer
 
-Currently interning at **VOSYN** (AI startup) and completing an OOP engineering track at **FlexiSAF** — remotely, simultaneously.
+Building production backend systems and on-chain infrastructure — REST APIs, distributed services, and smart contracts.
 
----
+[![Email](https://img.shields.io/badge/Email-officialpeters1%40gmail.com-1F2A44?style=flat-square&logo=gmail&logoColor=white)](mailto:officialpeters1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-james--peters-1F2A44?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-peters-209b943b1)
+[![X](https://img.shields.io/badge/X-%40BlvckBoy03-1F2A44?style=flat-square&logo=x&logoColor=white)](https://x.com/BlvckBoy03)
 
-### 🛠 Tech Stack
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<br>
 
----
+## About
 
-### 🚀 Featured Projects
+Backend Software Engineering Intern at **Vosyn**, working on backend services for a live AI video platform. Completed an OOP-focused engineering internship at **FlexiSAF**. Outside of work, I build backend and Web3 side projects — mostly Solana/EVM smart contract systems and AI-backed tooling.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[YieldMind](https://github.com/sQuiDbOb18/yieldmind)** | AI-powered autonomous yield optimizer on Mantle Network | Solidity · Node.js · Next.js · wagmi |
-| **[GhostWriter Court](https://github.com/sQuiDbOb18/ghostwriter-court)** | Multi-agent IP dispute resolution system | Python · Band · Multi-Agent AI |
-| **[SkillStake](https://github.com/sQuiDbOb18/SkillStake)** | Blockchain skill verification & staking platform | Solana · Rust · Anchor |
-| **[MediMind AI](https://github.com/sQuiDbOb18/MediMindAI)** | AI-powered healthcare intelligence platform | Python · FastAPI · LLM |
-| **[Work Proof DApp](https://github.com/sQuiDbOb18/WorkProof-dApp)** | Decentralised proof-of-work credential system | Solana · Rust · Anchor |
+<br>
 
----
+## Stack
 
-### 📬 Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/james-peters-209b943b1)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/blvckboy03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialpeters1@gmail.com)
+![Python](https://img.shields.io/badge/Python-1F2A44?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1F2A44?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2A44?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1F2A44?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1F2A44?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1F2A44?style=for-the-badge&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-1F2A44?style=for-the-badge&logo=solidity&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-1F2A44?style=for-the-badge&logo=solana&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2A44?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1F2A44?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1F2A44?style=for-the-badge&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1F2A44?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
+
+<br>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>YieldMind</b><br>
+      <sub>AI-powered autonomous yield optimizer on the Mantle Network</sub><br>
+      <sub><i>Solidity · Node.js · Next.js · wagmi</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>GhostWriter Court</b><br>
+      <sub>Multi-agent system for automated IP dispute resolution</sub><br>
+      <sub><i>Python · Multi-Agent AI</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>SkillStake</b><br>
+      <sub>Blockchain-based skill verification and staking platform</sub><br>
+      <sub><i>Solana · Rust · Anchor</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Olien</b><br>
+      <sub>Team account protocol for stablecoins — multisig approval, spend limits, passkey signing</sub><br>
+      <sub><i>Rust · TypeScript · Solidity</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>MediMind AI</b><br>
+      <sub>AI-powered healthcare intelligence platform</sub><br>
+      <sub><i>Python · FastAPI · LLM</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Work Proof dApp</b><br>
+      <sub>Decentralised proof-of-work credential system</sub><br>
+      <sub><i>Solana · Rust · Anchor</i></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sQuiDbOb18&show_icons=true&hide_border=true&theme=default&title_color=1F2A44&icon_color=1F2A44&text_color=333333&bg_color=F7F8FA)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sQuiDbOb18&layout=compact&hide_border=true&theme=default&title_color=1F2A44&text_color=333333&bg_color=F7F8FA)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Open to backend and Web3 engineering opportunities — reach out via email or LinkedIn.</sub>
+</div>
